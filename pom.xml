@@ -23,6 +23,7 @@
 
 	<modules>
 		<module>configserver</module>
+		<module>itemserver</module>
 	</modules>
 
 
